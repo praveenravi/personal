@@ -1,10 +1,3 @@
-"""
-Scrape FTSE100 Historical Prices from Google Finance
-
-Author: Jessica Yung
-September 2016
-"""
-
 from bs4 import BeautifulSoup
 import urllib.request
 # from sys import argv
